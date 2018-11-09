@@ -1,0 +1,1 @@
+This is Ico's firt git project!
